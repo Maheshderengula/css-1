@@ -1,0 +1,9 @@
+h4{
+    background-color: orange;
+}
+h6,p{
+  background-color: darkgreen;
+}
+div,a{
+    background-color: blue;
+}
